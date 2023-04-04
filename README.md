@@ -44,9 +44,28 @@ Quelle operation voulez-vous effectuer ?
 Choix ==>
 ```
 
-3. Follow the prompt to complete the chosen operation. <br>
-**Note**: The result of the operations will be saved in the same folder as main.exe. <br>
+3. Follow the prompt to complete the chosen operation.
+
+**Note**: The result of the operations will be saved in the same folder as main.exe.
+
 **Note**: No English translation has been done. Everything is in French.
+
+**Note**: ASCII Art images are save into .txt file.
+
+# Technical informations
+To use this program properly, u can follow this instruction sequence on the interface (choice n° - description): 
+- 1 - Load a ppm image
+- 2 - save it
+- 3 - Turn it to grayscale
+- 5 - Save it to a pgm file
+- 4 - Load the pgm file in memory
+- 6 - pixelates the pgm image
+- 5 - Save the pixelates image in pgm format
+And now u have a GrayScale pixelate image.
+
+If u want to manipulate any other ppm or pgm file, don't forget to load them by using command 1 or 4.
+
+Also, don't forget to save them after u make a change.
 
 ---
 
